@@ -1,2 +1,10 @@
 # APEX_WVC
-This is a repository for APEX material that were modified/adapted or created by WVC faculty (from SJSU).
+This is a repository for material that were modified/adapted or created by WVC faculty, from [SJSU APEX modules](https://github.com/vectrlab/apex-stats-modules/tree/accordion_style?tab=readme-ov-file#apex-stats-accordion-modules) with [instructor guide](https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Instructor_Guide.ipynb).  These prebuilt modules are ready for use or modification in your course. Each module uses one dataset examples with a series of code snippets.
+
+- [Proportion_Project_Bar_Chart](https://github.com/ChenOnline/APEX_WVC/blob/main/Proportion_Project_Bar_Chart.ipynb) Developed by K. Jackanich to visualize categorical data, input as a dataframe.
+- [Area_Under_the_Normal_Curve](https://github.com/ChenOnline/APEX_WVC/blob/main/Area_Under_the_Normal_Curve_WVC.ipynb)
+  Addition of visualization of probability in a normal distribution.  Need to clean up Gemini generated code.  S. Chen
+- [EmpricalRuleHistogramVisualization](https://github.com/ChenOnline/APEX_WVC/blob/main/EmpricalRuleHistogramVisualization.ipynb) Created by S. (Victor) Wu to visualize the Empirical rule and build a histogram from a Google sheet.
+- [Central_Limit_Theorem_proportions](https://github.com/ChenOnline/APEX_WVC/blob/main/Central_Limit_Theorem_proportions_asc_jpynb.ipynb) Created by A. Chan, with K. Brown's flight data, to teach CLT for proportions.
+- [Confidence_interval_1proportion](https://github.com/ChenOnline/APEX_WVC/blob/main/Confidence_Interval_1proportion_WVC_asc.ipynb) Created and modified by A. Chan, K. Jackanich, S. Chen, with K. Brown's flight data, to teach CI for one proportion, with visualization for confidence level.  K. Jackanich also developed this [worksheet](https://github.com/ChenOnline/APEX_WVC/blob/main/Confidence_Interval%20activity.pdf) to use with this module -- students turn in the paper workshets, not necessary the JNBs.
+- [statc1000_calculation_code](https://github.com/ChenOnline/APEX_WVC/blob/main/statc1000_calculation_code.ipynb) Code blocks collected by S. Chen for students to use for calculation, visualization, and inference tests for STAT C1000 so that no graphing calculator is ever necessary.
