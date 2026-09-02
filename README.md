@@ -16,4 +16,4 @@ This is a repository for material that were modified/adapted or created by WVC f
 - [Project_WVC](https://github.com/ChenOnline/APEX_WVC/blob/main/Project_WVC.ipynb) Skeleton JNB for students to start their own projects.  Created by S. Chen.  Need to add regression, and inferential tests.
 - [statc1000_calculation_code](https://github.com/ChenOnline/APEX_WVC/blob/main/statc1000_calculation_code.ipynb) Code blocks collected by S. Chen for students to use for calculation, visualization, and inference tests for STAT C1000 so that no graphing calculator is ever necessary.
 
-If you wish to see exams developed by [S. Chen](mailto:serkuang.chen@westvalley.edu), please email.
+You can use the [SJSU APEX module construction kit](https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Module_Construction_Kit.ipynb) to build your own modules. If you wish to see exams developed by [S. Chen](mailto:serkuang.chen@westvalley.edu), please email.
