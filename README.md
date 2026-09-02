@@ -1,4 +1,5 @@
 # APEX_WVC
+[](#APEX_WVC)
 This is a repository for material that were modified/adapted or created by WVC faculty, from [SJSU APEX modules](https://github.com/vectrlab/apex-stats-modules/tree/accordion_style?tab=readme-ov-file#apex-stats-accordion-modules) with [instructor guide](https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Instructor_Guide.ipynb).  These prebuilt modules are ready for use or modification in your course. Each module uses one dataset examples with a series of code snippets. Please feel free to make any corrections or improvements.
 
 - [Proportion_Project_Bar_Chart](https://github.com/ChenOnline/APEX_WVC/blob/main/Proportion_Project_Bar_Chart.ipynb) Developed by K. Jackanich to visualize categorical data, input as a dataframe.
